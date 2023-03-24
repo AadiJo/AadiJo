@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Aadi's Github Stats](https://github-readme-stats.vercel.app/api?username=aadijo&count_private=true&show_icons=true&theme=dark)]
+![Aadi's Github Stats](https://github-readme-stats.vercel.app/api?username=aadijo&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadijo&hide=shaderlab,hlsl&theme=dark&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadijo&hide=shaderlab,hlsl&theme=dark&layout=compact)
