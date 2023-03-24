@@ -1,5 +1,5 @@
 ### Hi there 👋
-##### Game and backend developer
+#### Game and backend developer
 
 <!--
 **AadiJo/AadiJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
