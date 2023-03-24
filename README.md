@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Aadi's Github Stats](https://github-readme-stats.vercel.app/api?username=aadijo&count_private=true&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&bg_color=ffffff00)](https://github.com/AadiJo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadijo&hide=shaderlab,hlsl&theme=github_dark&layout=compact&hide_border=true&custom_title=Languages&bg_color=ffffff00&card_width=468)](https://github.com/AadiJo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadijo&hide=shaderlab,hlsl&theme=github_dark&layout=compact&hide_border=true&custom_title=Languages&bg_color=ffffff00&card_width=445)](https://github.com/AadiJo)
