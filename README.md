@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Aadi's Github Stats](https://github-readme-stats.vercel.app/api?username=aadijo&count_private=true&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&bg_color=ffffff00&rank_icon=github)](https://github.com/AadiJo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadijo&hide=shaderlab,hlsl,Objective-C++,GAP,CMake&theme=github_dark&layout=compact&hide_border=true&custom_title=Languages&bg_color=ffffff00&card_width=445&langs_count=2)](https://github.com/AadiJo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadijo&hide=shaderlab,hlsl&theme=github_dark&layout=donut-vertical&hide_border=true&custom_title=Languages&bg_color=ffffff00&card_width=445&exclude_repo=Fox-Runner,Programming-Theory-Repo,Rust-Tutorial,Data-Persistance-Repo,GeometryDashCopy)](https://github.com/AadiJo)
