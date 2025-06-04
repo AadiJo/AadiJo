@@ -2,6 +2,8 @@
 #### Game and backend developer
 [Leetcode](https://leetcode.com/ajohari/)
 
+I’m currently working on [OBDApp](https://github.com/AadiJo/OBD-App)
+
 <!--
 **AadiJo/AadiJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
