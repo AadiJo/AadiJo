@@ -2,7 +2,7 @@
 #### Game and backend developer
 [Leetcode](https://leetcode.com/ajohari/)
 
-I’m currently working on [OBDApp](https://github.com/AadiJo/OBD-App)
+I’m currently working on [Flux](https://github.com/AadiJo/Flux)
 
 <!--
 **AadiJo/AadiJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
