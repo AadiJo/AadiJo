@@ -1,6 +1,4 @@
 ### Hi there 👋
-#### Game and backend developer
-[Leetcode](https://leetcode.com/ajohari/)
 
 I’m currently working on [Flux](https://github.com/AadiJo/Flux)
 
