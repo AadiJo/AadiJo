@@ -2,7 +2,7 @@
 
 I’m currently working on [Cadsense](https://github.com/AadiJo/cadsense)
 
-https://advait.johari-dev.com/
+https://johari-dev.com/
 
 <!--
 **AadiJo/AadiJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
